@@ -35,7 +35,6 @@ References:
   Author                   = {Su, P. and Liu, H. and Wu, W. },
   Journal                  = {J Chem Phys},
   Year                     = {2012},
-
   Month                    = {Jul},
   Number                   = {3},
   Pages                    = {034111},
