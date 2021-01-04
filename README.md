@@ -12,6 +12,13 @@ To install these:
 To run the script:
 >python3 pieplot_eda.py (arguments)
 
+Basic usage:
+>python3 pieplot_eda.py lmoeda.log
+replace lmoeda.log with your GAMESS output file name that contains LMOEDA analysis
+
+If you want to plot the results for "own basis set"
+>python3 pieplot_eda.py --plot_own lmoeda.log
+
 References:
 
 @Article{Su2009,
